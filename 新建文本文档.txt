@@ -1,0 +1,5 @@
+
+     使用jquery插件实现图片上一张 下一张 关闭功能
+magnific-popup.min.js
+
+magnific-popup.min.css
